@@ -1,3 +1,5 @@
+# syaBytes
+
 ## 🚀 Introduction:
 
 - syaBytes is a software development company that specializes in web development, design, and programming.
@@ -10,7 +12,7 @@
 - Interested individuals can visit our GitHub page to find our open-source projects and submit pull requests with their contributions.
 - We also encourage reporting bugs or issues on our GitHub page or through email.
 
-##👩‍💻 Useful resources:
+## 👩‍💻 Useful resources:
 
 - Our documentation and tutorials can be found on our website.
 - Our blog features articles on web development, design, and programming that may be useful for the community.
