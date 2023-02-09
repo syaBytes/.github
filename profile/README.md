@@ -1,6 +1,4 @@
 
-# syaBytes
-
 ### 🚀 Introduction:
 
 - syaBytes is a software development team that specializes in web development, design, and programming.
